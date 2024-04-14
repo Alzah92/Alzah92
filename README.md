@@ -5,7 +5,7 @@
 - I love playing guitar
 ### Languages and Tools
 SQL (PL/SQL, PL+)
-![C#](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fru%2Ffree-png-ahobe&psig=AOvVaw1pu_H7jYTAi2FDuHhNjIYt&ust=1713169394446000&source=images&cd=vfe&opi=89978449&ved=0CBQQjhxqFwoTCODa-LujwYUDFQAAAAAdAAAAABAb)C#
+![C#](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fru%2Ffree-png-ahobe&psig=AOvVaw1pu_H7jYTAi2FDuHhNjIYt&ust=1713169394446000&source=images&cd=vfe&opi=89978449&ved=0CBQQjhxqFwoTCODa-LujwYUDFQAAAAAdAAAAABAb) C#
 JavaScript
 PHP
 Python
