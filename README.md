@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 👋 I'm Alex </h1>
+<h1 align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F513&background=91FFC700&random=false&width=435&lines=Hi+there!)](https://git.io/typing-svg) 👋 I'm Alex </h1>
 ###I'm Database Developer
 - I love programming
 - I'm learning new languages
